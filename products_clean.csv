@@ -1,0 +1,251 @@
+product_id,category,price
+P0001,Toys,880.0
+P0002,Fashion,1630.0
+P0003,Beauty,1810.0
+P0004,Electronics,31780.0
+P0005,Electronics,33540.0
+P0006,Books,270.0
+P0007,Fashion,2340.0
+P0008,Beauty,2270.0
+P0009,Books,410.0
+P0010,Electronics,18910.0
+P0011,Home & Kitchen,7880.0
+P0012,Books,190.0
+P0013,Toys,2180.0
+P0014,Fashion,3460.0
+P0015,Grocery,220.0
+P0016,Toys,2200.0
+P0017,Books,480.0
+P0018,Home & Kitchen,6870.0
+P0019,Books,830.0
+P0020,Toys,2640.0
+P0021,Fashion,630.0
+P0022,Grocery,920.0
+P0023,Grocery,1110.0
+P0024,Beauty,1610.0
+P0025,Sports,5610.0
+P0026,Beauty,260.0
+P0027,Sports,7780.0
+P0028,Toys,330.0
+P0029,Electronics,14600.0
+P0030,Electronics,37260.0
+P0031,Home & Kitchen,7610.0
+P0032,Grocery,1190.0
+P0033,Home & Kitchen,3970.0
+P0034,Toys,700.0
+P0035,Home & Kitchen,4060.0
+P0036,Fashion,770.0
+P0037,Grocery,1050.0
+P0038,Beauty,1470.0
+P0039,Home & Kitchen,3410.0
+P0040,Electronics,5940.0
+P0041,Fashion,1860.0
+P0042,Fashion,3520.0
+P0043,Home & Kitchen,5720.0
+P0044,Beauty,340.0
+P0045,Fashion,980.0
+P0046,Electronics,17520.0
+P0047,Fashion,760.0
+P0048,Home & Kitchen,7490.0
+P0049,Grocery,800.0
+P0050,Home & Kitchen,1030.0
+P0051,Electronics,32160.0
+P0052,Beauty,1020.0
+P0053,Grocery,330.0
+P0054,Sports,5340.0
+P0055,Toys,240.0
+P0056,Grocery,590.0
+P0057,Books,780.0
+P0058,Grocery,1120.0
+P0059,Electronics,15670.0
+P0060,Toys,2000.0
+P0061,Toys,840.0
+P0062,Grocery,690.0
+P0063,Home & Kitchen,2260.0
+P0064,Sports,5360.0
+P0065,Fashion,1020.0
+P0066,Beauty,2360.0
+P0067,Home & Kitchen,7130.0
+P0068,Beauty,940.0
+P0069,Books,720.0
+P0070,Home & Kitchen,1040.0
+P0071,Fashion,3070.0
+P0072,Home & Kitchen,2470.0
+P0073,Books,210.0
+P0074,Books,640.0
+P0075,Sports,4490.0
+P0076,Fashion,2310.0
+P0077,Toys,1660.0
+P0078,Books,150.0
+P0079,Electronics,4900.0
+P0080,Home & Kitchen,4930.0
+P0081,Home & Kitchen,5100.0
+P0082,Home & Kitchen,660.0
+P0083,Fashion,1760.0
+P0084,Fashion,2610.0
+P0085,Electronics,27300.0
+P0086,Electronics,33650.0
+P0087,Fashion,1910.0
+P0088,Toys,1740.0
+P0089,Beauty,1510.0
+P0090,Home & Kitchen,2700.0
+P0091,Books,140.0
+P0092,Beauty,160.0
+P0093,Fashion,3410.0
+P0094,Fashion,1120.0
+P0095,Fashion,2670.0
+P0096,Beauty,1510.0
+P0097,Home & Kitchen,3380.0
+P0098,Home & Kitchen,6720.0
+P0099,Beauty,1790.0
+P0100,Grocery,80.0
+P0101,Fashion,3200.0
+P0102,Beauty,1340.0
+P0103,Beauty,970.0
+P0104,Books,680.0
+P0105,Sports,6330.0
+P0106,Sports,3140.0
+P0107,Fashion,3940.0
+P0108,Home & Kitchen,5300.0
+P0109,Toys,1900.0
+P0110,Home & Kitchen,840.0
+P0111,Grocery,370.0
+P0112,Home & Kitchen,3740.0
+P0113,Beauty,1630.0
+P0114,Home & Kitchen,4250.0
+P0115,Home & Kitchen,6180.0
+P0116,Toys,940.0
+P0117,Fashion,2930.0
+P0118,Beauty,2070.0
+P0119,Beauty,1950.0
+P0120,Toys,2360.0
+P0121,Beauty,2240.0
+P0122,Grocery,150.0
+P0123,Toys,2150.0
+P0124,Home & Kitchen,7760.0
+P0125,Toys,1810.0
+P0126,Grocery,300.0
+P0127,Fashion,4000.0
+P0128,Beauty,560.0
+P0129,Fashion,1610.0
+P0130,Books,240.0
+P0131,Electronics,20190.0
+P0132,Sports,4060.0
+P0133,Home & Kitchen,4080.0
+P0134,Beauty,2330.0
+P0135,Electronics,20700.0
+P0136,Books,510.0
+P0137,Beauty,2230.0
+P0138,Books,750.0
+P0139,Fashion,1260.0
+P0140,Fashion,450.0
+P0141,Home & Kitchen,5150.0
+P0142,Grocery,1020.0
+P0143,Fashion,2390.0
+P0144,Books,270.0
+P0145,Electronics,30430.0
+P0146,Books,640.0
+P0147,Fashion,2430.0
+P0148,Home & Kitchen,6950.0
+P0149,Home & Kitchen,6340.0
+P0150,Fashion,2800.0
+P0151,Home & Kitchen,5420.0
+P0152,Home & Kitchen,5400.0
+P0153,Beauty,1380.0
+P0154,Grocery,580.0
+P0155,Home & Kitchen,5760.0
+P0156,Grocery,750.0
+P0157,Home & Kitchen,4070.0
+P0158,Fashion,860.0
+P0159,Fashion,2930.0
+P0160,Home & Kitchen,5270.0
+P0161,Home & Kitchen,2940.0
+P0162,Toys,1200.0
+P0163,Books,300.0
+P0164,Beauty,2410.0
+P0165,Beauty,2170.0
+P0166,Home & Kitchen,4620.0
+P0167,Beauty,1090.0
+P0168,Fashion,3050.0
+P0169,Fashion,2300.0
+P0170,Fashion,3910.0
+P0171,Fashion,600.0
+P0172,Books,130.0
+P0173,Electronics,24040.0
+P0174,Fashion,1130.0
+P0175,Grocery,740.0
+P0176,Grocery,950.0
+P0177,Beauty,470.0
+P0178,Beauty,1190.0
+P0179,Sports,6350.0
+P0180,Electronics,33850.0
+P0181,Home & Kitchen,4120.0
+P0182,Electronics,10630.0
+P0183,Home & Kitchen,4810.0
+P0184,Grocery,570.0
+P0185,Sports,7060.0
+P0186,Grocery,690.0
+P0187,Sports,2880.0
+P0188,Beauty,1920.0
+P0189,Sports,4900.0
+P0190,Books,240.0
+P0191,Home & Kitchen,4640.0
+P0192,Fashion,3810.0
+P0193,Beauty,1810.0
+P0194,Fashion,1480.0
+P0195,Beauty,1820.0
+P0196,Fashion,1420.0
+P0197,Beauty,1430.0
+P0198,Fashion,2300.0
+P0199,Fashion,1290.0
+P0200,Beauty,970.0
+P0201,Fashion,3790.0
+P0202,Grocery,340.0
+P0203,Home & Kitchen,6470.0
+P0204,Home & Kitchen,5440.0
+P0205,Electronics,22710.0
+P0206,Toys,590.0
+P0207,Books,260.0
+P0208,Home & Kitchen,1680.0
+P0209,Fashion,2510.0
+P0210,Sports,8770.0
+P0211,Grocery,1060.0
+P0212,Home & Kitchen,490.0
+P0213,Fashion,1390.0
+P0214,Fashion,970.0
+P0215,Electronics,39100.0
+P0216,Sports,2500.0
+P0217,Grocery,280.0
+P0218,Grocery,760.0
+P0219,Sports,5230.0
+P0220,Fashion,1210.0
+P0221,Grocery,820.0
+P0222,Home & Kitchen,1050.0
+P0223,Home & Kitchen,450.0
+P0224,Books,170.0
+P0225,Electronics,16500.0
+P0226,Toys,2930.0
+P0227,Grocery,680.0
+P0228,Sports,6920.0
+P0229,Sports,3230.0
+P0230,Home & Kitchen,5840.0
+P0231,Electronics,38750.0
+P0232,Sports,3540.0
+P0233,Beauty,2500.0
+P0234,Grocery,780.0
+P0235,Fashion,3090.0
+P0236,Fashion,1310.0
+P0237,Home & Kitchen,5250.0
+P0238,Books,510.0
+P0239,Sports,8630.0
+P0240,Grocery,1090.0
+P0241,Fashion,1830.0
+P0242,Beauty,2380.0
+P0243,Electronics,35740.0
+P0244,Fashion,2530.0
+P0245,Home & Kitchen,930.0
+P0246,Beauty,530.0
+P0247,Home & Kitchen,890.0
+P0248,Home & Kitchen,1130.0
+P0249,Books,880.0
+P0250,Toys,790.0

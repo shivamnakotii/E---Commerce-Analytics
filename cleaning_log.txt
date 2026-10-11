@@ -1,0 +1,7 @@
+customers: 3000 -> 3000 rows (city text standardised)
+orders: removed 40 duplicate order_ids
+orders: removed 60 rows with missing customer_id
+order_items: removed 25 rows with invalid quantity (<=0)
+order_items: removed 15 rows with missing unit_price
+revenue outliers (> 16,740): 1198 rows flagged, kept (high-value electronics are genuine)
+SQLite database created: ecommerce.db
